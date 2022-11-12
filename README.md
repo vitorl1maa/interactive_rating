@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é um projeto pequeno e agradável para praticar o manuseio das interações do usuário e a atualização do DOM.
+Este projeto é um componente de avaliação de produtos/serviços no qual o usuário avalia escolhendo uma nota entre 1 e 5. Coloquei em prática conhecimentos referente a  DOM.
 
 ## 🔖 Layout
 
