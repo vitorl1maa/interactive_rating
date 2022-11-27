@@ -80,7 +80,7 @@ body{
   .btn-rating:hover {
     background-color: hsl(25, 97%, 53%);
     color: hsl(0, 0%, 100%);
-   
+    cursor pointer;
   }
   
   .btn-rating:focus {
@@ -100,6 +100,7 @@ body{
     font-weight: bold;
     letter-spacing: 1px;
     font-family: 'Roboto', sans-serif;
+    cursor pointer;
   }
   
   .btn-submit:hover {
